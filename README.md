@@ -137,13 +137,25 @@ A total of five bands used in this project:
 
 | Band Name | Symbol | Methods | Wavelength (nm)|
 |-----|-----|-----|-----|
-| Blue band | B2 | AWEI_nsh | 458 - 523 | 
+| Blue band | B2 | AWEI | 458 - 523 | 
 | Green band| B3 | AWEI, MNDWI and NDWI | 543 - 578 |
 | Near-infrared band (NIR)| B8 or B8A | AWEI and NDWI | 785 - 899 |
-| Short-wave infrared band (SWIR1)| B11 | MNDWI and NDWI | 1565 - 1655 | 
+| Short-wave infrared band (SWIR1)| B11 | AWEI and MNDWI | 1565 - 1655 | 
 | Short-wave infrared band (SWIR2) | B12 | AWEI | 2100 - 2280 | 
 
+The following figure is a diagram of the operation of Sentinel-2
+
 (image)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Remote Sensing Methods
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Machine Learning Method – K-means
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ---
@@ -163,11 +175,11 @@ A short summary video, the contents include:
 [[🔗 Link to video]()]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+---
 # 📜 License
 
 Distributed under the MIT License. See `LICENSE.txt` for details.
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ---
 
 #  Contact
@@ -175,7 +187,7 @@ Distributed under the MIT License. See `LICENSE.txt` for details.
 **Guoxuan Li**  - [zcfbgli@ucl.ac.uk](zcfbgli@ucl.ac.uk) / [guoxuan.li.mia@gmail.com](guoxuan.li.mia@gmail.com)
 
 University College London, Department of Earth Sciences
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ---
 <!-- ACKNOWLEDGMENTS -->
 # Acknowledgments
@@ -184,5 +196,4 @@ This project was created for GEOL0069 at University College London, taught by Dr
 ## 📚 References
 
 
-![image](https://github.com/Guoxuan-Li/Final_Project/blob/main/Images/S2A_MSIL2A_20231028T042901_N0510_R133_T45QYE_20240910T030449-ql.jpg)
-![image](https://github.com/Guoxuan-Li/Final_Project/blob/main/Images/S2A_MSIL2A_20241231T043201_N0511_R133_T45QYE_20241231T073201-ql.jpg)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
