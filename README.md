@@ -51,13 +51,11 @@ This is the final project of the UCL module GEOL0069, which is about classify wa
       </ul>
     </li>
     <li><a href="#Getting Started">Getting Started</a></li>
-    
     <li><a href="#Brief Results and Conclusion">Brief Results and Conclusion</a></li>
-    
     <li><a href="#video summary">Video Summary</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#references">References</a></li>
+    <li><a href="#Acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -295,7 +293,7 @@ Distributed under the MIT License. See `LICENSE.txt` for details.
 
 ---
 
-#  Contact
+# 🧑 Contact
 **Guoxuan Li**  - [zcfbgli@ucl.ac.uk](zcfbgli@ucl.ac.uk) / [guoxuan.li.mia@gmail.com](guoxuan.li.mia@gmail.com)
 
 University College London, Department of Earth Sciences
@@ -304,10 +302,10 @@ University College London, Department of Earth Sciences
 ---
 
 <!-- ACKNOWLEDGMENTS -->
-# Acknowledgments
+# 📚 Acknowledgments
 This project was created for GEOL0069 at University College London, taught by Dr. Michel Tsamados, Weibin Chen and Connor Nelson. And the data of Sentinel-2 satellite imagery were downloaded from Copernicus Dataspace.
 
-## 📚 References
+## References
 - Akter, J., Sarker, M. H., Popescu, I., & Roelvink, D. (2016). Evolution of the Bengal Delta and its prevailing processes. Journal of Coastal Research, 32(5), 1212-1226.
 
 - Blum, M. D., & Roberts, H. H. (2012). The Mississippi delta region: past, present, and future. Annual Review of Earth and Planetary Sciences, 40(1), 655-683.
