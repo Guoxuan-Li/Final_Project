@@ -130,8 +130,20 @@ September is the flood season in the Mississippi Delta. The main reason is that 
 
 
 ## The Sentinel-2 Satellite
+The GMES Sentinel-2 mission provides continuity for services that rely on multispectral high-resolution optical observations of the global land surface. GMES is a joint initiative of the European Commission (EC) and the European Space Agency (ESA), aiming to build Europe's capacity to provide and use business monitoring information for environmental and safety applications. This system features MSI and has 13 spectral bands, covering from visible light and near-infrared to short-wave infrared. The spatial resolution ranges from 10 to 60 meters (Spoto et al., 2012). 
+
+A total of five bands used in this project:
 
 
+| Band Name | Symbol | Methods | Wavelength (nm)|
+|-----|-----|-----|-----|
+| Blue band | B2 | AWEI_nsh | 458 - 523 | 
+| Green band| B3 | AWEI, MNDWI and NDWI | 543 - 578 |
+| Near-infrared band (NIR)| B8 or B8A | AWEI and NDWI | 785 - 899 |
+| Short-wave infrared band (SWIR1)| B11 | MNDWI and NDWI | 1565 - 1655 | 
+| Short-wave infrared band (SWIR2) | B12 | AWEI | 2100 - 2280 | 
+
+(image)
 
 
 ---
