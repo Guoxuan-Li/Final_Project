@@ -147,9 +147,6 @@ A total of five bands used in this project:
 | Short-wave infrared band (SWIR1)| B11 | AWEI and MNDWI | 1565 - 1655 | 
 | Short-wave infrared band (SWIR2) | B12 | AWEI | 2100 - 2280 | 
 
-The following figure shows the operation of Sentinel-2
-
-(image)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📡 Remote Sensing Methods
