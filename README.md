@@ -188,7 +188,12 @@ K-means clustering key factors:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🖼️ Figure about the Used Methods
+Using figures to introduce the remote sensing methods and machine learning methods used in the project (take the Bengal Delta data as an example).
+
 ![image](https://github.com/Guoxuan-Li/Final_Project/blob/main/Images/S2.png)
+![image](https://github.com/Guoxuan-Li/Final_Project/blob/main/Images/K.png)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ♻️ Environmental Cost Assessment
 The environmental cost of this research project is relatively low, as it relies primarily on the use of freely available satellite remote sensing data and computational methods that do not require physical fieldwork or consumable resources.
