@@ -41,6 +41,7 @@ This is the final project of the UCL module GEOL0069, which is about classify wa
         <li><a href="#The-sentinel-2 satellite">The Sentinel-2 Satellite</a></li>
         <li><a href="#remote-sensing-methods">Remote Sensing Methods</a></li>
         <li><a href="#machine-learning-method---k-means">Machine Learning Method – K-means </a></li>
+        <li><a href="#Figure about the Used Methods">Figure about the Used Methods</a></li>
         <li><a href="#environmental-cost Assessment">Environmental Cost Assessment</a></li>
       </ul>
     </li>
@@ -185,6 +186,9 @@ K-means clustering key factors:
 - **Update step**: centroids are recalculated based on the mean position of assigned points
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🖼️ Figure about the Used Methods
+![image](https://github.com/Guoxuan-Li/Final_Project/blob/main/Images/S2.png)
 
 ## ♻️ Environmental Cost Assessment
 The environmental cost of this research project is relatively low, as it relies primarily on the use of freely available satellite remote sensing data and computational methods that do not require physical fieldwork or consumable resources.
