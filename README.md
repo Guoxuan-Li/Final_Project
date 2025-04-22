@@ -286,7 +286,7 @@ A short summary video, the contents include:
 - Assessment of the environmental cost of this project
 
 
-[[🔗 Link to video]()]
+[[🔗 Link to video](https://youtu.be/t6HfEA1ia1s)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
